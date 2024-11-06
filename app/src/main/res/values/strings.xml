@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BMI App</string>
+    <string name="wlcomsms">Wellcome To BMI Calculator</string>
+    <string name="enterHeightF">Enter Your Height in feet</string>
+    <string name="enterHeightI">Enter Your Height in Inch</string>
+    <string name="enterWeight">Enter Your Weight in KG</string>
+    <string name="btn">Calculate BMI</string>
+    <string name="result">Your BMI is :</string>
+</resources>
